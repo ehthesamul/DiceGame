@@ -20,7 +20,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  position: relative;
 }
 
 /* LAYOUT */
@@ -216,10 +215,4 @@ main {
   position: relative;
   top: 420px;
   right: 565px;
-}
-
-body h1{
-  position: absolute;
-  left: 46.5%;
-  bottom: 0;
 }
